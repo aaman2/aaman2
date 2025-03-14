@@ -98,7 +98,7 @@
 
 <img src="https://raw.githubusercontent.com/aaman2/aaman2/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/aaman2/aaman2/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+### <img src="https://raw.githubusercontent.com/aaman2/aaman2/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
 
