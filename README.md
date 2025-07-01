@@ -1,47 +1,49 @@
+<div align="center">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Bharat2044/Bharat2044/main/assets/header.png" alt="Banner Image" width="100%"/>
+</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=1486F7&width=438&lines=%F0%9F%91%8B+Hi%2C+I'm+Aman%2C+Web+Dev+from+%EA%A0%B8%EA%AA%80%E1%A6%94%EA%A0%B8%EA%AA%96" alt="Typing SVG" align='center' />
 
-###
 
-<h2 align="left">👋 Hi, I'm Amandeep , 💻 A Web Developer  from India! 🇮🇳💻 </h2>
-<h4 align="center">Linkedin Quote</h4>
+
+<h2 align="left">About me</h2>
+
+
+<p align="left"  >
+✨ I'm currently learning AI and ML.<br><br>
+🎓 Pursuing MCA (AI & ML) at Amity University, Noida.<br><br>
+💻 Full Stack Developer: JavaScript, HTML, CSS, MERN, React.<br><br>
+⚡ Quick learner passionate about real-world tech solutions.
+</p>
+
+
+
+
+
 
 <br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaman2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /><img align="right" height="150" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp"  />
-
-</div>
-
-
-
-
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://discord.gg/EckCfKV9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:singh.aman1112000@gmai###l.com?subject=Github_Msg&body=Greetings" target="_blank">
+<a href="mailto:singh.aman1112000@gmail.com?subject=Github_Msg&body=Greetings" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sidhit" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+  
 
-###
 
-<h2 align="left">About me</h2>
 
-###
-
-<p align="left">✨  I'm currently learning AI and ML<br>🎓 Pursuing MCA (AI & ML) at Amity University, Noida.<br>💻 Full Stack Developer: JavaScript, HTML, CSS, MERN, React.<br>⚡ Quick learner passionate about real-world tech solutions.</p>
-
-###
 
 <h2 align="left">🛠 Language and tools</h2>
 
-###
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
@@ -90,18 +92,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
 </div>
 
-###
-
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/aaman2/aaman2/output/snake.svg" alt="Snake animation" />
-
-
-
-###
-
-
-###
-
